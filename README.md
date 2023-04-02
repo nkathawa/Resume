@@ -6,5 +6,5 @@ This is a LaTeX resume that I created for myself.
 2. Edit the `resume.tex` file
 3. Go to overleaf.com and upload the `resume.tex` file
 4. Change the content of the file to your experience
-4. Compile the file
-5. Download the PDF file
+5. Compile the file
+6. Download the PDF file
